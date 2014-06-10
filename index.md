@@ -7,7 +7,7 @@ service-oriented infrastructure for film and games
 # For an artist to make prettier pictures, she requires..
 
 # Feedback
-
+ 
 ![](/images/feedback.png)
 
 She must be given instant feedback on request in order to eliminate dependence and delay between contributing and learning of its effect.
